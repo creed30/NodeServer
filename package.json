@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/creed30/NodeServer",
   "dependencies": {
-    "express": "^4.13.3"
+    "express": "^4.13.3",
+    "foundation-sites": "^5.5.2"
   }
 }
