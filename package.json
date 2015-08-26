@@ -1,0 +1,19 @@
+{
+  "name": "NodeServer",
+  "version": "1.0.0",
+  "description": "Simple Node Server to test rest services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/creed30/NodeServer.git"
+  },
+  "author": "Chad Reed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/creed30/NodeServer/issues"
+  },
+  "homepage": "https://github.com/creed30/NodeServer"
+}
