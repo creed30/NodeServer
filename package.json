@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/creed30/NodeServer/issues"
   },
-  "homepage": "https://github.com/creed30/NodeServer"
+  "homepage": "https://github.com/creed30/NodeServer",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
 }
